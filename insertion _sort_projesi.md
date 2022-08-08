@@ -17,9 +17,9 @@ O(n²)
 3. Time Complexity
 ```
 * Average Case "aradigimiz sayinin dizinin ortasinda olmasi"
-* Worst Case "dizinin buyukten kucuge siralamasi"
+* Worst Case "dizinin buyukten kucuge sirali gelmesi"
     [27,22,18,16,6,2] O(n²)
-* Best Case "dizinin kucukten buyuge siralanmasi"
+* Best Case "dizinin kucukten buyuge sirali gelmesi"
     [2,6,16,18,22,27] O(n)
 ```
 4. Dizi siralandiktan sonra **[2,6,16,18,22,27]** 18 sayisi ortada bulundugundan "Avaraage Case" 
